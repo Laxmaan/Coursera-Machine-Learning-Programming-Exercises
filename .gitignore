@@ -1,0 +1,6 @@
+*.pdf
+**/**/lib
+workspace
+*.mat
+*.txt
+*.png
